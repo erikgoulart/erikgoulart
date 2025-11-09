@@ -30,12 +30,15 @@ Atualmente, estudo e desenvolvo projetos nas áreas de **C#**, **Python** e **SQ
 
 ---
 
-### 🗂️ Repositorios
-JavaBoys Contra Dp:
+### 🗂️ Repositórios
+Logo abaixo estão os meus projetos com suas respectivas capas, para facilitar a visualização.
+O **Java Boys** foi desenvolvido em **C#** com **Unity**, enquanto o projeto de **SQL Server** consiste em desafios práticos para fixação e aprimoramento das habilidades em banco de dados.
+
 <div align="center">
   <a href="https://github.com/erikgoulart/JavaBoys">
-    <img src="https://raw.githubusercontent.com/erikgoulart/JavaBoys/main/JavaBoysCapa.jpg" width="400px" alt="Java Boys Contra DP" />
+    <img src="https://raw.githubusercontent.com/erikgoulart/JavaBoys/main/JavaBoysCapa.jpg" width="300px" alt="Java Boys Contra DP" />
+  </a>
+  <a href="https://github.com/erikgoulart/DesafioSQL">
+    <img src="https://raw.githubusercontent.com/erikgoulart/DesafioSQL/main/Banco de Dados.jpg" width="300px" alt="Desafio SQL" />
   </a>
 </div>
-
----

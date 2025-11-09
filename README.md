@@ -1,4 +1,11 @@
-## 👋 Olá, tudo bem? Me chamo **Erik Goulart**
+<div align="center">
+  <a href="https://github.com/erikgoulart/erikgoulart">
+    <img src="https://raw.githubusercontent.com/erikgoulart/erikgoulart/main/1762561057347.jpeg" 
+         alt="banner" 
+         style="width: 100%; max-width: 900px; border-radius: 15px;" />
+  </a>
+</div>
+
 ---
 ![Bem-vindo(a) ao meu GitHub!!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=00000000&width=420&lines=Bem-vindo(a)+ao+meu+GitHub!!)
 
@@ -11,6 +18,7 @@ Atualmente estudo e desenvolvo projetos utilizando **C#, .NET, Node.js, JavaScri
 
 ## Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-goulart-45424a31a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik_goulart05?igsh=ejhvNnltOW9jN243)
 ---
 
 ### 🖥️ Linguagens e Tecnologias
@@ -36,7 +44,7 @@ Atualmente estudo e desenvolvo projetos utilizando **C#, .NET, Node.js, JavaScri
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgoulart&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgoulart&layout=donut&theme=transparent)](https://github.com/erikgoulart)
 </div>
 
 ---

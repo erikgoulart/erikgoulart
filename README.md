@@ -60,4 +60,6 @@ O **Java Boys** foi desenvolvido em **C#** com **Unity**, enquanto o projeto de 
   <a href="https://github.com/erikgoulart/DesafioSQL">
     <img src="https://raw.githubusercontent.com/erikgoulart/DesafioSQL/main/Banco de Dados.jpg" width="300px" alt="Desafio SQL" />
   </a>
+  <a href="https://github.com/erikgoulart/Conversao-De-Moeda-e-Temperatura">
+    <img src="https://raw.githubusercontent.com/erikgoulart/Conversao-De-Moeda-e-Temperatura/main/CalculadoraFinal.png" width="300px" alt="CalculadoraFinaL" />
 </div>

@@ -62,4 +62,8 @@ O **Java Boys** foi desenvolvido em **C#** com **Unity**, enquanto o projeto de 
   </a>
   <a href="https://github.com/erikgoulart/Conversao-De-Moeda-e-Temperatura">
     <img src="https://raw.githubusercontent.com/erikgoulart/Conversao-De-Moeda-e-Temperatura/main/CalculadoraFinal.png" width="300px" alt="CalculadoraFinaL" />
+  </a>
+  <a  href="https://github.com/erikgoulart/ExerciciosCsharp">
+    <img src="https://raw.githubusercontent.com/erikgoulart/ExerciciosCsharp/main/Csharp.png" width="300px" alt="Csharp" />
+  </a>
 </div>

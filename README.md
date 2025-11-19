@@ -50,8 +50,7 @@ Atualmente estudo e desenvolvo projetos utilizando **C#, .NET, Node.js, JavaScri
 ---
 
 ### 🗂️ Repositórios
-Logo abaixo estão os meus projetos com suas respectivas capas, para facilitar a visualização.
-O **Java Boys** foi desenvolvido em **C#** com **Unity**, enquanto o projeto de **SQL Server** consiste em desafios práticos para fixação e aprimoramento das habilidades em banco de dados.
+Logo abaixo estão meus projetos com suas respectivas capas, facilitando a visualização. Entre os principais, você encontrará um **conversor** de **moeda** e **temperatura** em **Python** que utiliza **API**, exercícios práticos de **C#**, estudos em **SQL Server** e o jogo **Java Boys**, desenvolvido na **Unity** com **C#**. Os **banners abaixo** levam diretamente ao conteúdo de cada repositório.
 
 <div align="center">
   <a href="https://github.com/erikgoulart/JavaBoys">

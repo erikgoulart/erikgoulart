@@ -54,7 +54,7 @@ Logo abaixo estão meus projetos com suas respectivas capas, facilitando a visua
 
 <div align="center">
   <a href="https://github.com/erikgoulart/JavaBoys">
-    <img src="https://raw.githubusercontent.com/erikgoulart/JavaBoys/main/JavaBoysCapa.jpg" width="300px" alt="Java Boys Contra DP" />
+    <img src="https://raw.githubusercontent.com/erikgoulart/JavaBoys/main/JavaBoysCapa.png" width="300px" alt="Java Boys Contra DP" />
   </a>
   <a href="https://github.com/erikgoulart/DesafioSQL">
     <img src="https://raw.githubusercontent.com/erikgoulart/DesafioSQL/main/Banco de Dados.jpg" width="300px" alt="Desafio SQL" />

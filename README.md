@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/erikgoulart/erikgoulart">
-    <img src="https://raw.githubusercontent.com/erikgoulart/erikgoulart/main/1762561057347.jpeg" 
+    <img src="https://raw.githubusercontent.com/erikgoulart/erikgoulart/main/1762561057347.jpg" 
          alt="banner" 
          style="width: 100%; max-width: 900px; border-radius: 15px;" />
   </a>
